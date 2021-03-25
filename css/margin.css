@@ -1,0 +1,15 @@
+.template {
+  margin: top right bottom left;
+}
+
+.all {
+  margin: 0;
+}
+
+.only-top-and-bottom {
+  margin: 10% 0;
+}
+
+.only-right-and-left {
+  margin: 0 10%;
+}
